@@ -1,3 +1,4 @@
+![pixar](https://github.com/niniet98/PROJECT-II/blob/main/images/pixar.jpg?raw=true)
 # PROJECT-II
 
 ## Links
