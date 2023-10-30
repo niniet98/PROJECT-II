@@ -34,14 +34,22 @@ A fundamental financial imperative in the film industry is that revenue must sur
 
 ## Results
 
+Regarding the extracted graph for this hypothesis, it is clear that the budget of a film varies depending on the conceptual work behind it as well as other important phases in the creation process, which in turn depends on the world you want to create. It is not the same to recreate the real world in a Pixar film such as 'Up', which recreates a city with its humans than to create the world of the new film 'Elemental' which has completely invented characters with visual effects, in addition to the different worlds that appear in the film.
+
 ![budget_art_design](https://github.com/niniet98/PROJECT-II/blob/main/figures/budget_art_design.png?raw=true)
 
+Concerning about this graph, the budget increase may also be related to the advanced technologies that exist today to model the characters, animate them and render the final product with the highest possible quality. It may also be due to the rendering engine used by Pixar Studio.
 
 ![budget_over_years](https://github.com/niniet98/PROJECT-II/blob/main/figures/budget_over_years.png?raw=true)
+
 
 ![budget_vs_revenue](https://github.com/niniet98/PROJECT-II/blob/main/figures/budget_vs_revenue.png?raw=true)
 
 ## Conclusions
+
+The 3D animation industry has been revolutionized by rapid technological progress, leading to considerable budget expansions for films. Advanced tools, software, and rendering techniques have elevated animation quality, creating immersive, lifelike experiences. These technological advancements have unleashed creativity, enabling captivating storytelling and the creation of realistic characters and worlds. As a result, 3D animated films have become immensely popular among audiences of all ages.
+
+Increased budgets allow studios to tap into top talent and invest in research and development, maximizing each film's potential. The financial success of high-budget projects, often measured by box office earnings, showcases the audience's willingness to invest in exceptional visual storytelling. This success reaffirms the value of technological innovation in the 3D animation industry.
 
 ## Links
 [Support Canva](https://www.canva.com/design/DAFyvLtRtAg/2v18yy9IUpOimw4lw6XqHw/edit?utm_content=DAFyvLtRtAg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
