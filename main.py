@@ -1,4 +1,8 @@
-import pandas as pd
+from src import scrapping, cleaning, transforming, visualization
 
 if __name__ == '__main__':
-    pixar_df = pd.read_csv('data/pixar__studio12.csv')
+    scrapping.pixar_scrapping()
+    scrapping.wikipedia_scrapping()
+    cleaning.clean()
+    transforming.transform()
+    visualization.visualize()
