@@ -1,5 +1,5 @@
 ![pixar](https://github.com/niniet98/PROJECT-II/blob/main/images/pixar.jpg?raw=true)
-# PROJECT-II
+# Pixar Scrapping & EDA
 
 ## Overview
 The main goal of this project was to identify a dataset of particular interest and enhance it by retrieving additional information using web scraping techniques or APIs.
@@ -33,7 +33,13 @@ A fundamental financial imperative in the film industry is that revenue must sur
 
 
 ## Results
-![budget_art](https://github.com/niniet98/PROJECT-II/blob/main/figures/budget_art_design.png?raw=true)
+
+![budget_art_design](https://github.com/niniet98/PROJECT-II/blob/main/figures/budget_art_design.png?raw=true)
+
+
+![budget_over_years](https://github.com/niniet98/PROJECT-II/blob/main/figures/budget_over_years.png?raw=true)
+
+![budget_vs_revenue](https://github.com/niniet98/PROJECT-II/blob/main/figures/budget_vs_revenue.png?raw=true)
 
 ## Conclusions
 
