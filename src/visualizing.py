@@ -4,6 +4,7 @@ import seaborn as sns
 import numpy as np
 
 def budget_art_design(pixar_films: pd.DataFrame):
+    sns.set(rc={"figure.figsize": (16, 6)})
     sns.scatterplot(data=pixar_films, x='film', y='budget', hue='assets_+_characters', palette='Dark2', s=100)
     for i in range(pixar_films.shape[0]):
         plt.annotate(pixar_films["assets_+_characters"][i], (pixar_films["film"][i], pixar_films["budget"][i]), textcoords="offset points", xytext=(1, 1), fontsize=12, color='black')
@@ -15,6 +16,7 @@ def budget_art_design(pixar_films: pd.DataFrame):
     plt.savefig('figures/budget_art_design.png', bbox_inches='tight')
 
 def budget_over_years(pixar_films: pd.DataFrame):
+    sns.set(rc={"figure.figsize": (12, 6)})  
     sns.lmplot(data=pixar_films, x='year', y='budget', aspect=2, height=6, line_kws={'color': 'darkblue'}, scatter_kws={'color': 'darkblue'})
     plt.xlabel('Year')
     plt.ylabel('Budget')
